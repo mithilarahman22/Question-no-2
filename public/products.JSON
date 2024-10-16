@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "shoes",
+    "price": 120.99,
+    "description": "Noise-cancelling wireless headphones with 20-hour battery life."
+  },
+  {
+    "id": 2,
+    "name": "Shoes",
+    "price": 799.99,
+    "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage."
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "price": 1499.99,
+    "description": "High-performance laptop with 16GB RAM, 1TB SSD, and an RTX 3060 GPU."
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "price": 699.99,
+    "description": "55-inch 4K Ultra HD smart TV with HDR support and built-in streaming apps."
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "price": 59.99,
+    "description": "Portable Bluetooth speaker with waterproof design and 12-hour playtime."
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "price": 199.99,
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS."
+  }
+  
+ 
+]
